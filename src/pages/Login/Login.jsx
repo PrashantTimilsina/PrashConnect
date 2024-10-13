@@ -45,7 +45,7 @@ function Login() {
             <span className="loginForgot">Forgot Password?</span>
             <button
               className="loginRegisterButton"
-              onClick={() => navigate("/register")}
+              onClick={() => navigate("/")}
             >
               Create a New Account
             </button>
